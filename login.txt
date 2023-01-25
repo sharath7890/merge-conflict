@@ -1,1 +1,1 @@
-partial login is developed
+full login is developed
